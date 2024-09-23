@@ -1,0 +1,2 @@
+Allison,1,Limpieza Presidencial,Jefe de Limpieza,1.0E9
+Santiago,2,Todo,Presidente,1.0
